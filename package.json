@@ -2,7 +2,8 @@
   "name": "demo-js-webpack-rails",
   "private": true,
   "dependencies": {
-    "@rails/webpacker": "^3.4.1"
+    "@rails/webpacker": "^3.4.1",
+    "jQuery": "^1.7.4"
   },
   "devDependencies": {
     "webpack-dev-server": "2.11.2"
